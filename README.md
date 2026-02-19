@@ -32,8 +32,19 @@
   <img src="https://skillicons.dev/icons?i=java,python,php,django,mysql,html,css,git" />
 </p>
 
+## 🌷 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 ---
 
 <p align="center">
-🤎 Pink & Brown Theme 🤎
+  💕 Feito com dedicação e café 💕
 </p>
