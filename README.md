@@ -1,36 +1,29 @@
-<h1 align="center">🌷 Ana Clara 🌷</h1>
+<!-- BANNER -->
+<h1 align="center">🌷 Olá, eu sou a Ana 🌷</h1>
 
 <p align="center">
-💻 Desenvolvedora em formação • 🚀 Apaixonada por tecnologia
+  💻 Desenvolvedora em formação <br>
+  🎓 Estudante de Tecnologia <br>
+  🚀 Apaixonada por programação e novos desafios
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=rose_pine" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=rose_pine" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO&theme=rose_pine" />
-</p>
----
-
-## 📈 Estatísticas
+## 💖 Tecnologias que mais utilizo
 
 <p align="center">
-  <img height="170em" 
-       src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
-  
-  <img height="170em" 
-       src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,django,git" />
 </p>
+
+--
+
+## 🌺 Sobre mim
+
+✨ Atualmente estudando Java e Django  
+✨ Desenvolvendo projetos Web e Desktop  
+✨ Focada em evoluir todos os dias  
 
 ---
-
-## 💻 Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,django,mysql,html,css,git" />
-</p>
 
 ## 🌷 Contato
 
