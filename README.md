@@ -15,7 +15,8 @@
 </a>
 </div>
 
-
+<br>
+<br>
 
 
 <div>
@@ -24,7 +25,6 @@
 <a href="https://www.linkedin.com/in/ana-clara-da-silva-267b9331a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## cobrinha 
 ## Contribuições
 
 <img src="https://raw.githubusercontent.com/naclaraasilva/naclaraasilva/output/github-snake.svg" width="100%" />
